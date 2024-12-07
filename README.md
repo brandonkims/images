@@ -4,4 +4,4 @@
 
 https://github.com/user-attachments/assets/5cab2280-e373-4a41-a264-1c3e0faa0f32
 
-**영상4 재생 안 될 시, 해당 링크 클릭 ->**
+**영상4 재생 안될 시, 해당 링크 클릭 ->**
