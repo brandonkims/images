@@ -9,11 +9,14 @@ https://github.com/user-attachments/assets/5cab2280-e373-4a41-a264-1c3e0faa0f32
 <br>
 <br>
 
-**[영상4]. 파일럿 계산 클러스터 플랫폼 셋업**
+**[영상4]. 파일럿 계산 클러스터 플랫폼 셋업 과정**
 
 https://github.com/user-attachments/assets/7b4abb71-d65d-41c9-bc40-934537f6e287
 
-**[영상4] 재생 안될 시, 해당 링크 클릭 ->**
+**[영상4] 재생 안될 시, 해당 링크 클릭 ->https://youtube.com/shorts/IBREk8LujZ4?feature=share**
+<br>
+<br>
+<br>
 
 **[영상4]. HPC 및 AI/ML 기반 나노복합소재 물성 계산 디지털 트윈 시뮬레이션**
 
