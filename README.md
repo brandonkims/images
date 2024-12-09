@@ -13,7 +13,17 @@ https://github.com/user-attachments/assets/5cab2280-e373-4a41-a264-1c3e0faa0f32
 
 https://github.com/user-attachments/assets/7b4abb71-d65d-41c9-bc40-934537f6e287
 
-**[영상4] 재생 안될 시, 해당 링크 클릭 ->https://youtube.com/shorts/IBREk8LujZ4?feature=share**
+**[영상4] 재생 안될 시, 해당 링크 클릭 -> https://youtube.com/shorts/IBREk8LujZ4?feature=share**
+<br>
+<br>
+<br>
+
+**[영상4]. 벤치마크 동작**
+
+https://github.com/user-attachments/assets/da104530-4830-46bc-acc7-9bb4fb52bc3d
+
+**[영상4] 재생 안될 시, 해당 링크 클릭 -> https://youtube.com/shorts/LHnZha9n72Q?feature=share**
+
 <br>
 <br>
 <br>
