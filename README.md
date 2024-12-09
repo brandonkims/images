@@ -30,6 +30,6 @@ https://github.com/user-attachments/assets/da104530-4830-46bc-acc7-9bb4fb52bc3d
 
 **[영상4]. HPC 및 AI/ML 기반 나노복합소재 물성 계산 디지털 트윈 시뮬레이션**
 
-https://github.com/user-attachments/assets/7d0c8b89-8767-4edf-94c7-fb2d0fcbb983
+https://github.com/user-attachments/assets/97ae0335-4ea3-4bc9-a93e-830d8dca71f9
 
-**[영상4] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/tLADeNlNxG8**
+**[영상4] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/OkkwSWcClMU**
